@@ -10,3 +10,6 @@ Description - Concrete cracking is a major issue in Bridge Engineering. Detectio
 3. Transfer Learning based DL framework would be appreciated
 ## Judging Metrics: 
 Provide Precision, Recall and F1 score as Judging metrics
+1. Recall of the model is 1.00
+2. Precision of the model is 0.98
+3. F-Score is 0.99
