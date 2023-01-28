@@ -1,5 +1,6 @@
 # L-T-EduTech-Hackathon-at-SHAASTRA-IITM
-
+## Final round ppt Submission:
+https://drive.google.com/drive/folders/1gks5e0q5Y9pKerMmEG2eUgY4Fvuv-JGZ?usp=share_link
 ## Judging Metrics: 
 Provide Precision, Recall and F1 score as Judging metrics are:
 1. Recall of the model is 1.00
