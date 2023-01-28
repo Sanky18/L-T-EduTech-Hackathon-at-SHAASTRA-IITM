@@ -16,4 +16,5 @@ Description - Concrete cracking is a major issue in Bridge Engineering. Detectio
 2. Develop a suitable Deep Learning framework which can detect the crack in the image from the dataset
 3. Transfer Learning based DL framework would be appreciated
 ### Recording Link:
+https://drive.google.com/file/d/1j14MNMJfNJIUptOsMsSzzJt-Hm9JtFMC/view?usp=sharing
 https://drive.google.com/uc?id=1j14MNMJfNJIUptOsMsSzzJt-Hm9JtFMC&export=download
